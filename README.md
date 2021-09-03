@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://ma.tintosh.dev](https://ma.tintosh.dev)
 
+- 👨‍💻 My Codepen [https://codepen.io/matintosh](https://codepen.io/matintosh)
+
 - 💬 Ask me about **react, js, css, tailwind, next, bla bla bla**
 
 - 📫 How to reach me **m@tintosh.dev**
