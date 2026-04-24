@@ -7,13 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/matintosh" target="blank"><img src="https://img.shields.io/twitter/follow/@matintosh?logo=twitter&style=for-the-badge" alt="@matintosh" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://ma.tintosh.dev](https://ma.tintosh.dev)
-
 - 👨‍💻 My Codepen [https://codepen.io/matintosh](https://codepen.io/matintosh)
-
-- 💬 Ask me about **react, js, css, tailwind, next, bla bla bla**
-
-- 📫 How to reach me **m@tintosh.dev**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/matintosh/](https://www.linkedin.com/in/matintosh/)
 
