@@ -7,6 +7,9 @@
   Currently hacking on open banking tools and iOS apps.
 </p>
 
+[![committers.top badge](https://user-badge.committers.top/uruguay_private/USERNAME.svg)](https://user-badge.committers.top/uruguay_private/USERNAME)
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/matintosh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/matintosh"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
