@@ -1,3 +1,5 @@
+[![committers.top badge](https://user-badge.committers.top/uruguay_private/USERNAME.svg)](https://user-badge.committers.top/uruguay_private/matintosh)
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Mati+%F0%9F%91%8B;Full-Stack+%26+Mobile+Dev;Builder+of+things" alt="Typing SVG" />
 </h1>
@@ -6,9 +8,6 @@
   Full-stack developer with a passion for great UX — from web to mobile.<br/>
   Currently hacking on open banking tools and iOS apps.
 </p>
-
-[![committers.top badge](https://user-badge.committers.top/uruguay_private/USERNAME.svg)](https://user-badge.committers.top/uruguay_private/USERNAME)
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matintosh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
