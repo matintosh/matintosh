@@ -37,12 +37,3 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=matintosh&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=commits,prs,issues,contribs" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matintosh&layout=compact&theme=github_dark&hide_border=true" />
-</p>
